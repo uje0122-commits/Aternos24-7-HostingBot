@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Goeva",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "lelesspp.aternos.me",
+    "port": 26708,
     "version": "",
     "try-creative": false
   },
